@@ -1,1 +1,1 @@
-# banan.cz
+# Banán.cz
