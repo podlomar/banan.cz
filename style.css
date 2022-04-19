@@ -6,6 +6,10 @@ html {
   font-family: sans-serif;
 }
 
+h1 {
+  color: orange;
+}
+
 .container {
   max-width: 40rem;
   margin: 2rem auto;
